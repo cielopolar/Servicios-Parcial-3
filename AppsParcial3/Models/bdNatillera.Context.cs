@@ -13,10 +13,10 @@ namespace AppsParcial3.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class dbNatilleraEntities : DbContext
+    public partial class bdNatilleraEntities : DbContext
     {
-        public dbNatilleraEntities()
-            : base("name=dbNatilleraEntities")
+        public bdNatilleraEntities()
+            : base("name=bdNatilleraEntities")
         {
         }
     

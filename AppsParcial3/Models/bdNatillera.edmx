@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="dbNatilleraModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+      <Schema Namespace="bdNatilleraModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="Administrador">
           <Key>
             <PropertyRef Name="idAministrador" />
@@ -40,7 +40,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="dbNatilleraModelStoreContainer">
+        <EntityContainer Name="bdNatilleraModelStoreContainer">
           <EntitySet Name="Administrador" EntityType="Self.Administrador" Schema="dbo" store:Type="Tables" />
           <EntitySet Name="Eventos" EntityType="Self.Eventos" Schema="dbo" store:Type="Tables" />
           <AssociationSet Name="FK_Eventos_Administrador" Association="Self.FK_Eventos_Administrador">
@@ -52,7 +52,7 @@
     </edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
-      <Schema Namespace="dbNatilleraModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+      <Schema Namespace="bdNatilleraModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
         <EntityType Name="Administrador">
           <Key>
             <PropertyRef Name="idAministrador" />
@@ -90,7 +90,7 @@
             </Dependent>
           </ReferentialConstraint>
         </Association>
-        <EntityContainer Name="dbNatilleraEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="bdNatilleraEntities" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Administradors" EntityType="Self.Administrador" />
           <EntitySet Name="Eventos" EntityType="Self.Evento" />
           <AssociationSet Name="FK_Eventos_Administrador" Association="Self.FK_Eventos_Administrador">
@@ -103,9 +103,9 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="dbNatilleraModelStoreContainer" CdmEntityContainer="dbNatilleraEntities">
+        <EntityContainerMapping StorageEntityContainer="bdNatilleraModelStoreContainer" CdmEntityContainer="bdNatilleraEntities">
           <EntitySetMapping Name="Administradors">
-            <EntityTypeMapping TypeName="dbNatilleraModel.Administrador">
+            <EntityTypeMapping TypeName="bdNatilleraModel.Administrador">
               <MappingFragment StoreEntitySet="Administrador">
                 <ScalarProperty Name="idAministrador" ColumnName="idAministrador" />
                 <ScalarProperty Name="Documento" ColumnName="Documento" />
@@ -116,7 +116,7 @@
             </EntityTypeMapping>
           </EntitySetMapping>
           <EntitySetMapping Name="Eventos">
-            <EntityTypeMapping TypeName="dbNatilleraModel.Evento">
+            <EntityTypeMapping TypeName="bdNatilleraModel.Evento">
               <MappingFragment StoreEntitySet="Eventos">
                 <ScalarProperty Name="idEventos" ColumnName="idEventos" />
                 <ScalarProperty Name="idAdministrador" ColumnName="idAdministrador" />

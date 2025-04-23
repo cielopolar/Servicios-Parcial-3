@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AppsParcial3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\bdnatillera.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\bdnatillera.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "bdNatillera.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.edmx",
-              "RelativeDocumentMoniker": "AppsParcial3\\Models\\bdNatillera.edmx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.edmx [Diagram1]",
-              "RelativeToolTip": "AppsParcial3\\Models\\bdNatillera.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-04-23T03:08:37.946Z",
-              "EditorCaption": " [Diagram1]"
+              "Title": "clsEvento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\clsEvento.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
+              "RelativeToolTip": "AppsParcial3\\Clases\\clsEvento.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwE0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:53:46.296Z",
+              "EditorCaption": ""
             }
           ]
         }
