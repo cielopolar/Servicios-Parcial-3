@@ -77,7 +77,7 @@ namespace AppsParcial3.Clases
                 {
                     return "El evento no existe";
                 }
-                bdNatillera.Eventos.Remove(eventos);
+                bdNatillera.Eventos.Remove(eve);
                 bdNatillera.SaveChanges();
                 return "El evento se elimino correctamente";
             }

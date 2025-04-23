@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AppsParcial3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\user\\Desktop\\AppsParcial3\\appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Administrador.cs*",
+              "RelativeToolTip": "AppsParcial3\\Models\\Administrador.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:37:00.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bdNatillera.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\bdNatillera.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.cs",
+              "RelativeToolTip": "AppsParcial3\\Models\\bdNatillera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:36:58.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\Evento.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Evento.cs",
+              "RelativeToolTip": "AppsParcial3\\Models\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:27:19.95Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "clsEvento.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
               "RelativeDocumentMoniker": "AppsParcial3\\Clases\\clsEvento.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
-              "RelativeToolTip": "AppsParcial3\\Clases\\clsEvento.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAAwE0AAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs*",
+              "RelativeToolTip": "AppsParcial3\\Clases\\clsEvento.cs*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowE8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T03:53:46.296Z",
+              "WhenOpened": "2025-04-23T04:12:56.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "AppsParcial3\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:09:37.068Z",
               "EditorCaption": ""
             }
           ]
