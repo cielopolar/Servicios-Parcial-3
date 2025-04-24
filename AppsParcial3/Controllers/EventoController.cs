@@ -35,6 +35,7 @@ namespace AppsParcial3.Controllers
         }
         [HttpPost]
         [Route("Insertar")]
+        [Authorize]
         public string Insertar([FromBody] Evento eve)
         {
             clsEvento clsEvento = new clsEvento();

@@ -1,26 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\AppsParcial3\\",
+  "WorkspaceRootPath": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\daniv\\source\\repos\\servicios-parcial-3\\appsparcial3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\user\\Desktop\\AppsParcial3\\appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\daniv\\source\\repos\\servicios-parcial-3\\appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\clsevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\user\\desktop\\appsparcial3\\appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|c:\\users\\daniv\\source\\repos\\servicios-parcial-3\\appsparcial3\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\clslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\clases\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daniv\\AppData\\Local\\Temp\\b9c055c6-7b63-4e06-9b55-15430975a84b_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\TokenGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\liblogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\daniv\\AppData\\Local\\Temp\\97f8a96d-e8a6-4e96-80bf-b694d6127397_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\clsLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\clases\\tokenvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\clases\\tokenvalidationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\bdnatillera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6B4E02-7DDC-43C0-9B11-40FEB7A5F598}|AppsParcial3\\AppsParcial3.csproj|solutionrelative:appsparcial3\\models\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +60,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Administrador.cs",
-              "RelativeDocumentMoniker": "AppsParcial3\\Models\\Administrador.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Administrador.cs",
-              "RelativeToolTip": "AppsParcial3\\Models\\Administrador.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "clsEvento.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\clsEvento.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\clsEvento.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\clsEvento.cs",
+              "RelativeToolTip": "AppsParcial3\\Clases\\clsEvento.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T04:37:00.212Z",
+              "WhenOpened": "2025-04-24T00:47:50.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "bdNatillera.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.cs",
-              "RelativeDocumentMoniker": "AppsParcial3\\Models\\bdNatillera.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\bdNatillera.cs",
-              "RelativeToolTip": "AppsParcial3\\Models\\bdNatillera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AppsParcial3\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T04:36:58.333Z",
+              "WhenOpened": "2025-04-24T00:42:36.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Evento.cs",
-              "RelativeDocumentMoniker": "AppsParcial3\\Models\\Evento.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Models\\Evento.cs",
-              "RelativeToolTip": "AppsParcial3\\Models\\Evento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "clsLogin.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\AppData\\Local\\Temp\\97f8a96d-e8a6-4e96-80bf-b694d6127397_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\clsLogin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\97f8a96d-e8a6-4e96-80bf-b694d6127397_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\clsLogin.cs",
+              "ToolTip": "C:\\Users\\daniv\\AppData\\Local\\Temp\\97f8a96d-e8a6-4e96-80bf-b694d6127397_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\clsLogin.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\97f8a96d-e8a6-4e96-80bf-b694d6127397_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\clsLogin.cs [Solo lectura]",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T04:27:19.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T00:36:06.469Z",
+              "EditorCaption": " [Solo lectura]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "clsEvento.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
-              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\clsEvento.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Clases\\clsEvento.cs",
-              "RelativeToolTip": "AppsParcial3\\Clases\\clsEvento.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAApwFcAAAAIAAAAAAAAAA==",
+              "Title": "clsLogin.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\clsLogin.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\clsLogin.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\clsLogin.cs",
+              "RelativeToolTip": "AppsParcial3\\Clases\\clsLogin.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIAwwCMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T04:12:56.098Z",
+              "WhenOpened": "2025-04-24T00:35:53.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "LibLogin.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\LibLogin.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\LibLogin.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\LibLogin.cs",
+              "RelativeToolTip": "AppsParcial3\\Models\\LibLogin.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:25:52.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "AppsParcial3\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:09:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Web.config",
+              "RelativeDocumentMoniker": "AppsParcial3\\Web.config",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Web.config",
+              "RelativeToolTip": "AppsParcial3\\Web.config",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-23T23:42:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "EventoController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Controllers\\EventoController.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Controllers\\EventoController.cs",
               "RelativeDocumentMoniker": "AppsParcial3\\Controllers\\EventoController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\AppsParcial3\\AppsParcial3\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Controllers\\EventoController.cs",
               "RelativeToolTip": "AppsParcial3\\Controllers\\EventoController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwDoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T04:09:37.068Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\AppData\\Local\\Temp\\b9c055c6-7b63-4e06-9b55-15430975a84b_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\b9c055c6-7b63-4e06-9b55-15430975a84b_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\daniv\\AppData\\Local\\Temp\\b9c055c6-7b63-4e06-9b55-15430975a84b_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\TokenGenerator.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\b9c055c6-7b63-4e06-9b55-15430975a84b_Autenticacion.zip.Autenticacion.zip\\Autenticacion\\TokenGenerator.cs [Solo lectura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T00:52:14.964Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\TokenGenerator.cs",
+              "RelativeToolTip": "AppsParcial3\\Clases\\TokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:34:40.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenValidationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\TokenValidationHandler.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Clases\\TokenValidationHandler.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Clases\\TokenValidationHandler.cs",
+              "RelativeToolTip": "AppsParcial3\\Clases\\TokenValidationHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T23:27:45.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bdNatillera.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\bdNatillera.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\bdNatillera.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\bdNatillera.cs",
+              "RelativeToolTip": "AppsParcial3\\Models\\bdNatillera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:36:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\Administrador.cs",
+              "RelativeDocumentMoniker": "AppsParcial3\\Models\\Administrador.cs",
+              "ToolTip": "C:\\Users\\daniv\\source\\repos\\Servicios-Parcial-3\\AppsParcial3\\Models\\Administrador.cs",
+              "RelativeToolTip": "AppsParcial3\\Models\\Administrador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:37:00.212Z"
             }
           ]
         }

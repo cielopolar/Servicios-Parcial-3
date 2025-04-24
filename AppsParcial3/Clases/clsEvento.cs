@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Web;
+using System.Web.Http;
 using AppsParcial3.Models;
 
 namespace AppsParcial3.Clases
@@ -12,7 +13,8 @@ namespace AppsParcial3.Clases
 
         private bdNatilleraEntities bdNatillera = new bdNatilleraEntities();
         public Evento eventos { get; set; }
-
+        
+        
         public string Insertar()
         {
             try
@@ -47,6 +49,8 @@ namespace AppsParcial3.Clases
             Evento evenFecha = bdNatillera.Eventos.FirstOrDefault(e => e.FechaEvento == Fecha);
             return evenFecha;
         }
+
+        
         public string Actualizar()
         {
             try
@@ -67,6 +71,7 @@ namespace AppsParcial3.Clases
             }
         }
 
+        [Authorize]
         public string Eliminar()
         {
             //Primero se debe consultar 

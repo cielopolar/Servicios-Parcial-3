@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using AppsParcial3.Clases;
 
 namespace AppsParcial3
 {
@@ -12,6 +13,8 @@ namespace AppsParcial3
             // Configuración y servicios de Web API
 
             // Rutas de Web API
+            config.MessageHandlers.Add(new TokenValidationHandler());
+
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
